@@ -4,7 +4,7 @@
 
 💡 Innovation and problem-solving are at the core of my programming journey. I'm passionate about Full-stack Programming, and I'm always excited to take on challenges that push my boundaries and expand my knowledge horizon.
 
-📚 When I'm not glued to my computer screen, you can find me Online Game. Life is all about balance, after all!
+📚 When I'm not glued to my computer screen, you can find me reading manga. Life is all about balance, after all!
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/revi-wardana-putra-5b207a229/), whether it's to discuss a fascinating tech topic, collaborate on an exciting project, or simply share a good programming joke! 🤖 Let's code the future together! 🌟
 
