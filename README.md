@@ -12,8 +12,14 @@
 
 📚 When I'm not glued to my computer screen, you can find me reading manga. Life is all about balance, after all!
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/revi-wardana-putra-5b207a229/), whether it's to discuss a fascinating tech topic, collaborate on an exciting project, or simply share a good programming joke! 🤖 Let's code the future together! 🌟
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/reviwh/), whether it's to discuss a fascinating tech topic, collaborate on an exciting project, or simply share a good programming joke! 🤖 Let's code the future together! 🌟
 
+<hr />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,npm,express,react,nextjs,vue,tailwind,ts,php,laravel,androidstudio,kotlin,dart,flutter,java,spring,go,py,mysql,prisma,sqlite,mongodb,postgres,figma,vscode" />
+  </a>
+</p>
 <!--
 **reviwh/reviwh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
