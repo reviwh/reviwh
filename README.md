@@ -4,8 +4,8 @@
 <p align="center">
   <a href="https://app.daily.dev/reviwh"><img src="https://api.daily.dev/devcards/v2/F3sRuvC65TLTmzYz5Byk8.png?r=5jq&type=wide" width="652" alt="Revi Wardana Putra's Dev Card"/></a>
 </p>
--->
 <br>
+-->
 
 👋 Hey there! I'm Revi Wardana Putra, a passionate student at Padang State Polytechnic with an insatiable curiosity for the world of programming 🚀. I thrive on transforming lines of code into innovative solutions and exploring the endless possibilities that the digital realm offers. From crafting elegant algorithms to bringing creative ideas to life through software, I find immense joy in the art of coding.
 
